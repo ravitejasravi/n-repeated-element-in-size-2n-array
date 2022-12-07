@@ -8,13 +8,13 @@ Exactly one element of nums is repeated n times.<br />
 Return the element that is repeated n times.<br />
 
 Example 1:<br />
-&emsp;Input: nums = [1,2,3,3]
+&emsp;Input: nums = [1,2,3,3]<br />
 &emsp;Output: 3
 
 Example 2:<br />
-&emsp;Input: nums = [2,1,2,5,3,2]
+&emsp;Input: nums = [2,1,2,5,3,2]<br />
 &emsp;Output: 2
 
 Example 3:<br />
-&emsp;Input: nums = [5,1,5,2,5,3,5,4]
+&emsp;Input: nums = [5,1,5,2,5,3,5,4]<br />
 &emsp;Output: 5
